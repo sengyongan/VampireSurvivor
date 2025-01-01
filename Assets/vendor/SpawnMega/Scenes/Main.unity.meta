@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 515ef2b2ca4ad2b438a6bf4bd7c29c8f
+timeCreated: 1491070553
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113274
+  packageName: SpawnMega
+  packageVersion: 1.0
+  assetPath: Assets/SpawnMega/Scenes/Main.unity
+  uploadId: 238219

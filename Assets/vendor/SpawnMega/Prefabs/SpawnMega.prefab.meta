@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abf188e9ecdd2234985f83cab0a7d7c0
+timeCreated: 1501303241
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113274
+  packageName: SpawnMega
+  packageVersion: 1.0
+  assetPath: Assets/SpawnMega/Prefabs/SpawnMega.prefab
+  uploadId: 238219
